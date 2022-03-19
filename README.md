@@ -1,2 +1,2 @@
-# patika.dev ders ödevleri
+# patika.dev projeleri
 
