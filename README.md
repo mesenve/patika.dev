@@ -1,2 +1,2 @@
-# patika.dev
-Merge Sort Projesi
+# patika.dev ders ödevleri
+
